@@ -10,7 +10,7 @@ function App() {
     })();
   });
 
-  return <div>{data} aaaaaaaa</div>;
+  return <div>kak dela?</div>;
 }
 
 export default App;
